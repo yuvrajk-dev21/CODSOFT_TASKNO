@@ -55,15 +55,15 @@ Output
 === Number Guessing Game ===
 Guess a number between 1 and 100
 You have 5 attempts.
-Attempt 1: 25
+Attempt 1: 40
 Too low!
-Attempt 2: 32
+Attempt 2: 62
 Too low!
-Attempt 3: 75
+Attempt 3: 78
 Too high!
-Attempt 4: 65
+Attempt 4: 89
 Too high!
-Attempt 5: 50
+Attempt 5: 98
 Too low!
-You lost! The number was: 51
+You lost! The number was: 100
 Play again? (Y/N): 
